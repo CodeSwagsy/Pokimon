@@ -1,0 +1,16 @@
+{
+  "name": "pb-pokemon-lite-codeswagsy",
+  "version": "1.0.0",
+  "description": "You are tasked with simulating a battle between two Pokemon using JavaScript classes and methods.",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "readline-sync": "^1.4.10"
+  }
+}
